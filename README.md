@@ -335,10 +335,6 @@ car_corner_balance_android/
 
 The formulas, terminology, and workshop workflow were developed from the three Rob Robinette pages linked at the top of this README. The implementation, validation, user interface, custom target support, session storage, reports, and self-tests are original to this project.
 
-## Contributing
-
-Useful contributions include additional calculation tests, accessibility improvements, translations, optional CSV history, and device-tested Buildozer settings. Keep the pure calculation layer independent from Kivy so it remains easy to test on any Python installation.
-
 ## Disclaimer
 
 This software is for educational and setup-record purposes. It is not a substitute for a qualified motorsport engineer, vehicle manufacturer guidance, safe lifting practice, or controlled track testing. You are responsible for verifying measurements, equipment ratings, setup changes, and vehicle behaviour.
